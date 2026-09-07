@@ -1,0 +1,8 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"D1,D2,D3,D4","4","LED","","","","LED_SMD:LED_1206_3216Metric","~"
+"H3,H4","2","MountingHole","","Escluso dalla DIBA","","MountingHole:MountingHole_2mm","~"
+"J0","1","Conn_01x06","","","","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","~"
+"J1.1,J1.2,J2.1,J2.2,J3.1,J3.2,J4.1,J4.2","8","Conn_01x03","","","","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","~"
+"K1,K2,K3,K4","4","G6K-2","","","","Relay_SMD:Relay_DPDT_Omron_G6K-2F-Y","http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf"
+"R1,R2,R3,R4","4","330","","","","Resistor_SMD:R_1206_3216Metric","~"
+"U0","1","ULN2003A","","","","Package_SO:SOIC-16_3.9x9.9mm_P1.27mm","http://www.ti.com/lit/ds/symlink/uln2003a.pdf"
