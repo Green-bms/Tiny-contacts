@@ -1,6 +1,5 @@
 # Tiny Contacts 🔌
 
-![Status](https://img.shields.io/badge/hardware-v1.0-blue.svg)
 ![Size](https://img.shields.io/badge/dimensions-42x38%20mm-brightgreen.svg)
 
 An ultra-compact 4-channel SMD relay board engineered for space-constrained IoT and home automation setups. Designed to interface low-power microcontrollers (3.3V/5V) with medium loads seamlessly.
